@@ -1,3 +1,5 @@
+Indice de Contenido
 hm -> https://doc.rust-lang.org/book/ch01-02-hello-world.html
 hello_cargo -> https://doc.rust-lang.org/book/ch01-03-hello-cargo.html
+Juego_de_Adivinanzas -> https://doc-rust--lang-org.translate.goog/book/ch02-00-guessing-game-tutorial.html?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es
 
